@@ -1,1 +1,4 @@
-
+1.-¿Por qué tenemos que revisar el código?
+Para que que sepamos que esta el código conpleto, que no haya un código que sobra o hace que el código no funcione para corregirlo y este todo lo puesto en funcionamiento al ejecutarlo y probarlo(test).
+2.-¿Por qué es importante que la retroalimentación sea constructiva?
+Porque muestra una señal bien de apoyo y de confianza con los trabajadores y pone un animo que ayuda a sentirse bien en seguir trabajando y agregando las sugerencias y corrigiendo errores.
